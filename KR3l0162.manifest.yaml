@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3l0162_001.yaml, hash: 'sha256:fe3177e1d8517c6e62cdf84bf00c03579c3c8edbf9d599cfe12ad244846a4ca7'}
+  - {seq: 1, filename: KR3l0162_001.yaml, hash: 'sha256:273818a4371f275930967bd95fca6e422970cfa27f717ca75e8dcdb3a3db0c6a'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3l0162_001.markers.yaml, hash: 'sha256:be20ffa32a92ab1c2ad7de0bc387c833121b8d16112dd3d5e80f5ce75c0c6399'}
+  - {seq: 1, role: markers, filename: assets/KR3l0162_001.markers.yaml, hash: 'sha256:0bb933910d204d6a155590944eac04bd7048b92aee1f4ed1bab9ba50381b5790'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 玄晏春秋
   type: section
   level: 1
-hash: sha256:fbeb5a464dce38bcf9da1e6579426be67d746eb3347ebb4db22c802698e13f17
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:32fa6e3ca9831c4c61b655c6f0ba53fae0566f5a3cacd3b6d7654d893ff4b4a6
